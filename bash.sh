@@ -1,2 +1,4 @@
 echo "starting Bot ~@DroneBots";
-python3 -m main
+sudo apt install ffmpeg libsm6 libxext6 -y
+python -m main
+
